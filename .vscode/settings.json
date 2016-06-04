@@ -4,5 +4,5 @@
         "**/.svn": false,
         "**/.DS_Store": true
     },
-    "files.autoSave": "on",
-    "html.format.indentInnerHtml": true,
+    "files.autoSave": "afterDelay",
+    "html.format.indentInnerHtml": true
